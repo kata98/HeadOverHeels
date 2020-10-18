@@ -1,0 +1,96 @@
+@font-face{
+	font-family: 'Old Standard TT', serif;
+	font-family: 'Marck Script', cursive;
+}
+
+
+h1,h2{
+	font-family: 'Marck Script', cursive;
+	color: #FF8564;
+}
+
+.img-responsive{
+	width: 100%;
+}
+
+h4{
+	font-family: 'Marck Script', cursive;
+}
+
+
+
+.navbar{
+	font-family: 'Marck Script', cursive;
+	border: none;
+	font-size: 19px;
+	background-color: #fff;}
+
+a {
+	text-decoration: none;
+	color: #FF8564
+}
+
+ul li a:hover{
+	border-bottom: 2px solid #FFF5AD;
+	padding-bottom: 10px;
+	transition: 0.3s;
+}
+
+
+.navbar .active{
+	text-decoration: none;
+	
+}
+
+h2{
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+p{
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+body{
+	font-family: 'Old Standard TT', serif;
+	
+}	
+
+
+footer {
+	background-color: #FFF5AD;
+	
+	
+}
+
+form{
+	font-family: 'Old Standard TT', serif;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#contact{
+	color: #333;
+}
+
+.footer{
+	font-size: 15px;
+}
+
+.fa{
+	padding: 7px;
+	color: #333;
+}
+
+@media only screen and (max-width: 980px){
+	h1{
+		display: none;
+	}
+}
